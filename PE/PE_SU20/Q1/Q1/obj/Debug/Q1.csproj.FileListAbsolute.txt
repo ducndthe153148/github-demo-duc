@@ -1,0 +1,5 @@
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q1\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q1\Q1\bin\Debug\Q1.exe
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q1\Q1\bin\Debug\Q1.pdb
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q1\Q1\obj\Debug\Q1.exe
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q1\Q1\obj\Debug\Q1.pdb

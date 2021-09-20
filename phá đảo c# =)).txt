@@ -1,0 +1,76 @@
+PRN211
+
+Ngôn ngữ C#
+theo phương pháp lập trình hướng đối tượng
+có hướng tiếp cận mới, bổ sung syntax mới phù hợp với ngôn ngữ tự nhiên hơn
+con người dễ tiếp cận hơn
+
+tính năng:
+ - java có thì c# sẽ có
+ - có các syntax mới nhẹ và nhanh hơn java, ví dụ như linQ
+ - 
+ 
+Namespace để tổ chức các lớp để sử dụng, organize class
+Namespace giống package trong java 
+
+Truyền đối số vào ứng dụng thông qua hàm main (command - line argument)
+
+ctrl k + ctrl d => Làm đẹp code 
+ctrl k + ctrl c => comment
+ctrl k + ctrl u => undo
+
+Kí tự Environment.NewLine; (xuống dòng trên các môi trường
+var: tạo biến cục bộ, biến mà k cần khai báo dữ liệu 
+dynamic: tạo biến động, gán nhiều kiểu giá trị, kiểu dữ liệu linh hoạt
+
+Chuỗi nội suy, String Interpopalation
+
+id = int.Parse(Console.ReadLine());
+id = Convert.ToInt32(Console.ReadLine());
+
+
+ truyền theo tham chiếu thêm chữ ref ở trước, vd:  MyMethod(x, ref y, z);
+ MyMethod(x, ref y, out z); 
+ vẫn muốn trả về giá trị thì là out
+ 
+ truyền tham chiếu ref sẽ khiến trả về giá trị thay đổi
+ 
+ khác nhau giữa out với ref:
+- ref là phải gán giá trị ban đầu
+- out mục đích là nhận kết quả đầu ra ở function khác  
+ 
+ split trả về 1 tập hợp các và bỏ vào 1 mảng
+
+hàm cục bộ có thể ở ngay trong hàm main 
+
+các kiểu tuples:
+MyInt hoặc MyString 
+
+Discard with out và discard with tuples
+
+class là gì, object là gì
+string là kiểu dữ liệu ()
+String là object, String model = new String()
+
+tính đóng gói dữ liệu để tăng tính bảo mật, cái gì chỉ set, cái gì chỉ get 
+
+member visibility 
+
+// const và readonly
+// const là hằng số, giá trị không được thay đổi dù tham trị như nào 
+//  Sử dụng readonly khi bạn muốn tạo ra biến constant ở lúc runtime.
+
+Lập trình generic: Lập trình tổng quát List<T> 
+khi có nhiều kiểu dữ liệu, ta nên dùng khai báo tổng quát
+
+private static void Swap<T>(ref T a, ref T b)
+{
+	var temp = b;
+	b = a;
+	a = temp;
+}
+
+viết một phương thức mà không biết trước được số lượng tham số người dùng sẽ truyền vào là bao nhiêu
+Sử dụng params (chỉ được mảng 1 chiều)
+
+Các tuples 

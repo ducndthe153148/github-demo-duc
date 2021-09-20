@@ -1,0 +1,28 @@
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.Form1.resources
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.Properties.Resources.resources
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.csproj.GenerateResource.cache
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\bin\Debug\Q1.exe.config
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\bin\Debug\Q1.exe
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\bin\Debug\Q1.pdb
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.exe
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.pdb
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\bin\Debug\Q1.exe.config
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\bin\Debug\Q1.exe
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\bin\Debug\Q1.pdb
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.Form1.resources
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.Properties.Resources.resources
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.csproj.GenerateResource.cache
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.exe
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_2020_04_ChiLP\Q1\Q1\obj\Debug\Q1.pdb
+E:\KI_5\C#\PE\Q1\Q1\bin\Debug\Q1.exe.config
+E:\KI_5\C#\PE\Q1\Q1\bin\Debug\Q1.exe
+E:\KI_5\C#\PE\Q1\Q1\bin\Debug\Q1.pdb
+E:\KI_5\C#\PE\Q1\Q1\obj\Debug\Q1.csprojAssemblyReference.cache
+E:\KI_5\C#\PE\Q1\Q1\obj\Debug\Q1.Form1.resources
+E:\KI_5\C#\PE\Q1\Q1\obj\Debug\Q1.Properties.Resources.resources
+E:\KI_5\C#\PE\Q1\Q1\obj\Debug\Q1.csproj.GenerateResource.cache
+E:\KI_5\C#\PE\Q1\Q1\obj\Debug\Q1.csproj.CoreCompileInputs.cache
+E:\KI_5\C#\PE\Q1\Q1\obj\Debug\Q1.exe
+E:\KI_5\C#\PE\Q1\Q1\obj\Debug\Q1.pdb

@@ -1,0 +1,9 @@
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\bin\Debug\Q2.exe.config
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\bin\Debug\Q2.exe
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\bin\Debug\Q2.pdb
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\obj\Debug\Q2.Form1.resources
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\obj\Debug\Q2.Properties.Resources.resources
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\obj\Debug\Q2.csproj.GenerateResource.cache
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\obj\Debug\Q2.exe
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q2\Q2\obj\Debug\Q2.pdb

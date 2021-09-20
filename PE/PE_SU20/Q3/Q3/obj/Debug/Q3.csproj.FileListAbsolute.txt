@@ -1,0 +1,12 @@
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_SU20\Q3\Q3\bin\Q3.dll.config
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_SU20\Q3\Q3\bin\Q3.dll
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_SU20\Q3\Q3\bin\Q3.pdb
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_SU20\Q3\Q3\obj\Debug\Q3.csprojAssemblyReference.cache
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_SU20\Q3\Q3\obj\Debug\Q3.dll
+E:\University_FPT\2013_PRN292\2020_05_Cinema\Course materials\PE Examples\PE_SU20\Q3\Q3\obj\Debug\Q3.pdb
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q3\Q3\bin\Q3.dll.config
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q3\Q3\bin\Q3.dll
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q3\Q3\bin\Q3.pdb
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q3\Q3\obj\Debug\Q3.csprojAssemblyReference.cache
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q3\Q3\obj\Debug\Q3.dll
+E:\University_FPT\2013_PRN292\2020_09_14_TedShop\PE\PE_SU20\Q3\Q3\obj\Debug\Q3.pdb

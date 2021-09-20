@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\HE141694_GiangDQ_PT2\HE141694_GiangDQ_PT2\bin\HE141694_GiangDQ_PT2.dll.config
+C:\Users\MSI\source\repos\HE141694_GiangDQ_PT2\HE141694_GiangDQ_PT2\bin\HE141694_GiangDQ_PT2.dll
+C:\Users\MSI\source\repos\HE141694_GiangDQ_PT2\HE141694_GiangDQ_PT2\bin\HE141694_GiangDQ_PT2.pdb
+C:\Users\MSI\source\repos\HE141694_GiangDQ_PT2\HE141694_GiangDQ_PT2\obj\Debug\HE141694_GiangDQ_PT2.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\HE141694_GiangDQ_PT2\HE141694_GiangDQ_PT2\obj\Debug\HE141694_GiangDQ_PT2.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\HE141694_GiangDQ_PT2\HE141694_GiangDQ_PT2\obj\Debug\HE141694_GiangDQ_PT2.dll
+C:\Users\MSI\source\repos\HE141694_GiangDQ_PT2\HE141694_GiangDQ_PT2\obj\Debug\HE141694_GiangDQ_PT2.pdb

@@ -1,0 +1,6 @@
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q2\Q2\bin\Q2.dll.config
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q2\Q2\bin\Q2.dll
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q2\Q2\bin\Q2.pdb
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q2\Q2\obj\Debug\Q2.csprojAssemblyReference.cache
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q2\Q2\obj\Debug\Q2.dll
+E:\University_FPT\2013_PRN292\2020_01_06_Library\Course Materials\PE Examples\PE_2020_04_ChiLP\Q2\Q2\obj\Debug\Q2.pdb
